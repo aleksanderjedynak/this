@@ -1,5 +1,5 @@
 'use strict'
-
+/**0 */
 let array =[{name: "Ala" }, {name: "Kate"}, {name: "Alex"}];
 
 let fetchArray = new Promise((resolve, reject) => {
